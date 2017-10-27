@@ -1,0 +1,801 @@
+.entity-affiliate-program-client-event-color
+{
+    background-color:#F44336 !important;
+}
+.entity-affiliate-program-client-event-icon::before {
+    content: "\f32f" !important;
+    color:#fff !important;
+
+}.entity-affiliate-program-event-color
+{
+    background-color:#E91E63 !important;
+}
+.entity-affiliate-program-event-icon::before {
+    content: "\f126" !important;
+    color:#fff !important;
+
+}.entity-affiliate-program-event-type-color
+{
+    background-color:#9C27B0 !important;
+}
+.entity-affiliate-program-event-type-icon::before {
+    content: "\f26e" !important;
+    color:#fff !important;
+
+}.entity-black-list-color
+{
+    background-color:#673AB7 !important;
+}
+.entity-black-list-icon::before {
+    content: "\f135" !important;
+    color:#fff !important;
+
+}.entity-business-class-color
+{
+    background-color:#3F51B5 !important;
+}
+.entity-business-class-icon::before {
+    content: "\f228" !important;
+    color:#fff !important;
+
+}.entity-calendar-color
+{
+    background-color:#2196F3 !important;
+}
+.entity-calendar-icon::before {
+    content: "\f332" !important;
+    color:#fff !important;
+
+}.entity-calendar-event-color
+{
+    background-color:#03A9F4 !important;
+}
+.entity-calendar-event-icon::before {
+    content: "\f32f" !important;
+    color:#fff !important;
+
+}.entity-calendar-event-type-color
+{
+    background-color:#00BCD4 !important;
+}
+.entity-calendar-event-type-icon::before {
+    content: "\f331" !important;
+    color:#fff !important;
+
+}.entity-calendar-rule-color
+{
+    background-color:#009688 !important;
+}
+.entity-calendar-rule-icon::before {
+    content: "\f1e2" !important;
+    color:#fff !important;
+
+}.entity-calendar-rule-type-color
+{
+    background-color:#4CAF50 !important;
+}
+.entity-calendar-rule-type-icon::before {
+    content: "\f2ef" !important;
+    color:#fff !important;
+
+}.entity-calendar-type-color
+{
+    background-color:#8BC34A !important;
+}
+.entity-calendar-type-icon::before {
+    content: "\f1e2" !important;
+    color:#fff !important;
+
+}.entity-campaign-color
+{
+    background-color:#CDDC39 !important;
+}
+.entity-campaign-icon::before {
+    content: "\f2b5" !important;
+    color:#fff !important;
+
+}.entity-campaign-type-color
+{
+    background-color:#FFC107 !important;
+}
+.entity-campaign-type-icon::before {
+    content: "\f29e" !important;
+    color:#fff !important;
+
+}.entity-client-color
+{
+    background-color:#FF9800 !important;
+}
+.entity-client-icon::before {
+    content: "\f1ff" !important;
+    color:#fff !important;
+
+}.entity-client-account-color
+{
+    background-color:#FF5722 !important;
+}
+.entity-client-account-icon::before {
+    content: "\f106" !important;
+    color:#fff !important;
+
+}.entity-client-case-color
+{
+    background-color:#795548 !important;
+}
+.entity-client-case-icon::before {
+    content: "\f12a" !important;
+    color:#fff !important;
+
+}.entity-client-order-color
+{
+    background-color:#9E9E9E !important;
+}
+.entity-client-order-icon::before {
+    content: "\f1de" !important;
+    color:#fff !important;
+
+}.entity-client-service-color
+{
+    background-color:#607D8B !important;
+}
+.entity-client-service-icon::before {
+    content: "\f1ed" !important;
+    color:#fff !important;
+
+}.entity-client-status-color
+{
+    background-color:#2196F3 !important;
+}
+.entity-client-status-icon::before {
+    content: "\f27a" !important;
+    color:#fff !important;
+
+}.entity-client-type-color
+{
+    background-color:#009688 !important;
+}
+.entity-client-type-icon::before {
+    content: "\f209" !important;
+    color:#fff !important;
+
+}.entity-contact-color
+{
+    background-color:#4CAF50 !important;
+}
+.entity-contact-icon::before {
+    content: "\f30d" !important;
+    color:#fff !important;
+
+}.entity-contact-book-color
+{
+    background-color:#CDDC39 !important;
+}
+.entity-contact-book-icon::before {
+    content: "\f20b" !important;
+    color:#fff !important;
+
+}.entity-contact-book-item-color
+{
+    background-color:#aaa !important;
+}
+.entity-contact-book-item-icon::before {
+    content: "\f204" !important;
+    color:#fff !important;
+
+}.entity-contact-book-item-medium-color
+{
+    background-color:#aaa !important;
+}
+.entity-contact-book-item-medium-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-contact-book-item-type-color
+{
+    background-color:#aaa !important;
+}
+.entity-contact-book-item-type-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-contact-book-type-color
+{
+    background-color:#aaa !important;
+}
+.entity-contact-book-type-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-contact-direction-color
+{
+    background-color:#aaa !important;
+}
+.entity-contact-direction-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-contact-status-color
+{
+    background-color:#aaa !important;
+}
+.entity-contact-status-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-contact-type-color
+{
+    background-color:#aaa !important;
+}
+.entity-contact-type-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-data-type-color
+{
+    background-color:#FFC107 !important;
+}
+.entity-data-type-icon::before {
+    content: "\f367" !important;
+    color:#fff !important;
+
+}.entity-document-color
+{
+    background-color:#aaa !important;
+}
+.entity-document-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-document-field-color
+{
+    background-color:#aaa !important;
+}
+.entity-document-field-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-document-item-color
+{
+    background-color:#aaa !important;
+}
+.entity-document-item-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-document-item-type-color
+{
+    background-color:#aaa !important;
+}
+.entity-document-item-type-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-document-template-color
+{
+    background-color:#aaa !important;
+}
+.entity-document-template-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-document-template-dictionary-color
+{
+    background-color:#aaa !important;
+}
+.entity-document-template-dictionary-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-document-template-dictionary-item-color
+{
+    background-color:#aaa !important;
+}
+.entity-document-template-dictionary-item-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-document-template-state-color
+{
+    background-color:#aaa !important;
+}
+.entity-document-template-state-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-document-type-color
+{
+    background-color:#aaa !important;
+}
+.entity-document-type-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-dynamic-form-color
+{
+    background-color:#3F51B5 !important;
+}
+.entity-dynamic-form-icon::before {
+    content: "\f326" !important;
+    color:#fff !important;
+
+}.entity-dynamic-form-data-set-color
+{
+    background-color:#aaa !important;
+}
+.entity-dynamic-form-data-set-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-dynamic-form-data-set-item-color
+{
+    background-color:#aaa !important;
+}
+.entity-dynamic-form-data-set-item-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-dynamic-form-item-color
+{
+    background-color:#aaa !important;
+}
+.entity-dynamic-form-item-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-dynamic-form-item-option-value-color
+{
+    background-color:#aaa !important;
+}
+.entity-dynamic-form-item-option-value-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-dynamic-form-page-color
+{
+    background-color:#4CAF50 !important;
+}
+.entity-dynamic-form-page-icon::before {
+    content: "\f222" !important;
+    color:#fff !important;
+
+}.entity-dynamic-form-type-option-color
+{
+    background-color:#9E9E9E !important;
+}
+.entity-dynamic-form-type-option-icon::before {
+    content: "\f325" !important;
+    color:#fff !important;
+
+}.entity-email-color
+{
+    background-color:#aaa !important;
+}
+.entity-email-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-email-attachment-color
+{
+    background-color:#aaa !important;
+}
+.entity-email-attachment-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-equipment-item-color
+{
+    background-color:#aaa !important;
+}
+.entity-equipment-item-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-equipment-parameter-color
+{
+    background-color:#aaa !important;
+}
+.entity-equipment-parameter-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-equipment-parameter-type-color
+{
+    background-color:#aaa !important;
+}
+.entity-equipment-parameter-type-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-equipment-type-color
+{
+    background-color:#aaa !important;
+}
+.entity-equipment-type-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-file-color
+{
+    background-color:#aaa !important;
+}
+.entity-file-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-form-type-color
+{
+    background-color:#FF9800 !important;
+}
+.entity-form-type-icon::before {
+    content: "\f395" !important;
+    color:#fff !important;
+
+}.entity-form-type-option-color
+{
+    background-color:#607D8B !important;
+}
+.entity-form-type-option-icon::before {
+    content: "\f3b8" !important;
+    color:#fff !important;
+
+}.entity-form-type-option-dict-color
+{
+    background-color:#009688 !important;
+}
+.entity-form-type-option-dict-icon::before {
+    content: "\f3ac" !important;
+    color:#fff !important;
+
+}.entity-gamification-event-color
+{
+    background-color:#aaa !important;
+}
+.entity-gamification-event-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-gamification-event-condition-color
+{
+    background-color:#aaa !important;
+}
+.entity-gamification-event-condition-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-gamification-event-condition-type-color
+{
+    background-color:#aaa !important;
+}
+.entity-gamification-event-condition-type-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-gamification-level-color
+{
+    background-color:#aaa !important;
+}
+.entity-gamification-level-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-gamification-trophy-color
+{
+    background-color:#aaa !important;
+}
+.entity-gamification-trophy-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-gamification-user-trophy-color
+{
+    background-color:#aaa !important;
+}
+.entity-gamification-user-trophy-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-group-color
+{
+    background-color:#aaa !important;
+}
+.entity-group-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-localization-color
+{
+    background-color:#aaa !important;
+}
+.entity-localization-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-localization-type-color
+{
+    background-color:#aaa !important;
+}
+.entity-localization-type-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-log-color
+{
+    background-color:#aaa !important;
+}
+.entity-log-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-medium-color
+{
+    background-color:#aaa !important;
+}
+.entity-medium-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-medium-type-color
+{
+    background-color:#aaa !important;
+}
+.entity-medium-type-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-note-color
+{
+    background-color:#aaa !important;
+}
+.entity-note-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-overtime-color
+{
+    background-color:#aaa !important;
+}
+.entity-overtime-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-part-color
+{
+    background-color:#aaa !important;
+}
+.entity-part-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-part-localization-color
+{
+    background-color:#aaa !important;
+}
+.entity-part-localization-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-part-price-color
+{
+    background-color:#aaa !important;
+}
+.entity-part-price-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-place-color
+{
+    background-color:#aaa !important;
+}
+.entity-place-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-product-color
+{
+    background-color:#aaa !important;
+}
+.entity-product-icon::before {
+    content: "\f3eb" !important;
+    color:#fff !important;
+
+}.entity-product-brand-color
+{
+    background-color:#aaa !important;
+}
+.entity-product-brand-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-product-model-color
+{
+    background-color:#aaa !important;
+}
+.entity-product-model-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-product-type-color
+{
+    background-color:#aaa !important;
+}
+.entity-product-type-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-shift-group-color
+{
+    background-color:#aaa !important;
+}
+.entity-shift-group-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-shift-sequence-item-color
+{
+    background-color:#aaa !important;
+}
+.entity-shift-sequence-item-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-sms-color
+{
+    background-color:#aaa !important;
+}
+.entity-sms-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-time-record-event-color
+{
+    background-color:#aaa !important;
+}
+.entity-time-record-event-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-time-record-event-type-color
+{
+    background-color:#aaa !important;
+}
+.entity-time-record-event-type-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-user-color
+{
+    background-color:#aaa !important;
+}
+.entity-user-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-warehouse-item-color
+{
+    background-color:#aaa !important;
+}
+.entity-warehouse-item-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-warranty-color
+{
+    background-color:#aaa !important;
+}
+.entity-warranty-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-warranty-time-color
+{
+    background-color:#aaa !important;
+}
+.entity-warranty-time-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-warranty-type-color
+{
+    background-color:#aaa !important;
+}
+.entity-warranty-type-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-fos-user.group-color
+{
+    background-color:#aaa !important;
+}
+.entity-fos-user.group-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-fos-user.user-color
+{
+    background-color:#aaa !important;
+}
+.entity-fos-user.user-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-log-entry-color
+{
+    background-color:#aaa !important;
+}
+.entity-log-entry-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-abstract-log-entry-color
+{
+    background-color:#aaa !important;
+}
+.entity-abstract-log-entry-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-gedmo-tran.translation-color
+{
+    background-color:#aaa !important;
+}
+.entity-gedmo-tran.translation-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-translation-color
+{
+    background-color:#aaa !important;
+}
+.entity-translation-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-abstract-personal-translation-color
+{
+    background-color:#aaa !important;
+}
+.entity-abstract-personal-translation-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-abstract-translation-color
+{
+    background-color:#aaa !important;
+}
+.entity-abstract-translation-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-abstract-closure-color
+{
+    background-color:#aaa !important;
+}
+.entity-abstract-closure-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-menu-item-color
+{
+    background-color:#aaa !important;
+}
+.entity-menu-item-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-menu-item-type-color
+{
+    background-color:#aaa !important;
+}
+.entity-menu-item-type-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}.entity-session-color
+{
+    background-color:#aaa !important;
+}
+.entity-session-icon::before {
+    content: "\f1b1" !important;
+    color:#fff !important;
+
+}

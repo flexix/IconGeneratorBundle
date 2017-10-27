@@ -1,0 +1,7 @@
+services:
+    flexix_icon_generator.generator.generator:
+        class: Flexix\IconGeneratorBundle\Generator\Generator
+        arguments: []
+    flexix_icon_generator.util.icon_ccs_generator:
+        class: Flexix\IconGeneratorBundle\Util\IconCssGenerator
+        arguments: ["@flexix_icon_generator.generator.generator","%icon_generator.bundles%"]

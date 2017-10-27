@@ -1,0 +1,13 @@
+{%- for classes in bundles -%}
+{%- for classname,class in classes -%}
+.entity-{{class.alias}}-color
+{
+    background-color:{{class.color}} !important;
+}
+.entity-{{class.alias}}-icon::before {
+    content: "{{class.icon}}" !important;
+    color:{{class.icon_color}} !important;
+
+}
+ {%- endfor -%}
+ {%- endfor -%}
