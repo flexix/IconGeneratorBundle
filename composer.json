@@ -1,0 +1,31 @@
+{
+    "name": "flexix/icon-generator-bundle",
+    "description": "Hidden entity type bundle",
+    "keywords": [],
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mariusz Piela",
+            "email": "mariusz.piela@symfony.com"
+        }
+    ],
+    "require": {
+     
+    },
+    "require-dev": {
+       
+    },
+    "autoload": {
+        "psr-4": { "Flexix\\IconGeneratorBundle\\": "" },
+        "exclude-from-classmap": [
+            "/Tests/"
+        ]
+    },
+    "minimum-stability": "dev",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "3.1.x-dev"
+        }
+    }
+}
